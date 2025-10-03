@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="negocio.Livro"/>
-    <fullyQualifiedTypeName name="sun.awt.dnd.SunDragSourceContextPeer"/>
-</qualifiedTypeNameHistroy>
