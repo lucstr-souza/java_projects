@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.eclipse.tm4e.ui.themeAssociations=[]
+org.eclipse.tm4e.ui.themes=[{"id"\:"monokai_theme","path"\:"C\:\\\\Users\\\\luisa\\\\Java_Projects\\\\monokai_theme.css","dark"\:false}]
+org.eclipse.tm4e.ui.themes.defaultDarkTheme=org.eclipse.tm4e.ui.themes.Monokai
+org.eclipse.tm4e.ui.themes.defaultLightTheme=org.eclipse.tm4e.ui.themes.WtpXmlClassic
+org.eclipse.tm4e.ui.tmScopeHoverEnabled=false
